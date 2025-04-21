@@ -1,4 +1,4 @@
-# dust-arvival-predection-using-machine-learning
+# dust-arrvival-predection-using-machine-learning
 
 INTRODUCTION : The main attributes that are known to contribute to dust storms are wind speed, temperature, air pressure, humidity and the type of surface. The new techniques such as manchine learning algorithms could asset in weather forecasting. Machine learning algorithms will help to devise a reliable way of predicting future dust events based on these old cases of dust events. This study examines the process of predicting and identifying dust storms by focusing on a random forest algorithm.
 
